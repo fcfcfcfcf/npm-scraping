@@ -94,6 +94,7 @@ def getAllVersions(url):
         the_text = requests.get(url)
         while the_text.status_code == 429:
             time.sleep(5)
+        text = the_text.text
         soup = BeautifulSoup(text, 'html.parser')
         try:
             #this is because we are not assured that there will be a latest version     
