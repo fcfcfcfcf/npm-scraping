@@ -1,2 +1,0 @@
-lodash		does not match in the readme of 		loadsh
-loadsh		does not match in the readme of 		lodash

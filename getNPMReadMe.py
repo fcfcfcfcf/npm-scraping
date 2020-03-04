@@ -8,6 +8,7 @@ import threading
 import logging
 import concurrent.futures
 import csv
+import difflib
 
 
 matches = open('allTheMatches.txt', 'w+')
@@ -45,11 +46,13 @@ def get_name_ready_for_readme(package_name):
     return(versions_url)
 
 def drews_grepping(list_from_csv):
+    d = difflib.Differ()
     perp_url = get_name_ready_for_readme(list_from_csv[0])
     perp_readme = get_readme_of_page(perp_url)
     for i in range(1, len(list_from_csv)):
         target = str(list_from_csv[i])
-        if(re.match(target, perp_readme)):
+        #if(re.match(target, perp_readme)):
+        if(perp_readme.find(target)):
             print(target + '\t\thas a match in the readme of\t\t' + list_from_csv[0] + '\n')
             matches.write(target + '\t\thas a match in the readme of\t\t' + list_from_csv[0] + '\n')
         else:
@@ -70,11 +73,6 @@ def big_list_of_packages():
     return(perpetrators)
 
 def main():
-    test1 = ['loadsh', 'lodash']
-    test2 = ['lodash', 'loadsh']
-    drews_grepping(test1)
-    drews_grepping(test2)
-    exit()
     all_packages = big_list_of_packages()
     print('got all the packages loaded')
     for instance in all_packages:
