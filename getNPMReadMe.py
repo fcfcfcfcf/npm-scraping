@@ -4,10 +4,14 @@ import re
 import random
 import hashlib
 import time
+import threading
+import logging
+import concurrent.futures
+import csv
 
 
-big_dict_of_hashes = {}
-
+matches = open('allTheMatches.txt', 'w+')
+no_match = open('doesntMatch.txt', 'w+')
 
 #function for getting the readme of a url
 #has to be valid npm url to package
@@ -22,6 +26,70 @@ def get_readme_of_page(url):
         print(e)
         print('was probably blocked')
         exit()
+
+
+
+                
+# format = "%(asctime)s: %(message)s"
+# logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
+# threads = list()
+
+# for i in range(10):
+#     logging.info("Creating and starting thread %d.", i)
+#     new_thread = threading.Thread(target=get_readme, ars=(,)) #put urls in args when we have csv
+#     threads.append(new_thread)
+#     new_thread.start()
+   
+def get_name_ready_for_readme(package_name):
+    versions_url = 'https://www.npmjs.com/package/' + package_name
+    return(versions_url)
+
+def drews_grepping(list_from_csv):
+    perp_url = get_name_ready_for_readme(list_from_csv[0])
+    perp_readme = get_readme_of_page(perp_url)
+    for i in range(1, len(list_from_csv)):
+        target = str(list_from_csv[i])
+        if(re.match(target, perp_readme)):
+            print(target + '\t\thas a match in the readme of\t\t' + list_from_csv[0] + '\n')
+            matches.write(target + '\t\thas a match in the readme of\t\t' + list_from_csv[0] + '\n')
+        else:
+            print(target + '\t\tdoes not match in the readme of \t\t' + list_from_csv[0] + '\n')
+            no_match.write(target + '\t\tdoes not match in the readme of \t\t' + list_from_csv[0] + '\n')
+
+def big_list_of_packages():
+    perpetrators = []
+    with open('npm_typosquatting_perpetrators.csv') as csvfile:
+        pkg_reader = csv.reader(csvfile, delimiter=',')
+        for row in pkg_reader:
+            new_perpetrator = []
+            for ind in range (len(row)):
+                if ind%2 == 0:
+                    if row[ind] != '':
+                        new_perpetrator += [row[ind]]
+            perpetrators += [new_perpetrator]
+    return(perpetrators)
+
+def main():
+    test1 = ['loadsh', 'lodash']
+    test2 = ['lodash', 'loadsh']
+    drews_grepping(test1)
+    drews_grepping(test2)
+    exit()
+    all_packages = big_list_of_packages()
+    print('got all the packages loaded')
+    for instance in all_packages:
+        drews_grepping(instance)
+    matches.close()
+    no_match.close()
+
+main()
+
+
+
+
+
+
+
 
 #returns a list of all versions from latest to oldest
 def getAllVersions(url):
@@ -55,17 +123,3 @@ def getAllVersions(url):
         
     except Exception as e:
         print(e)
-
-
-
-def get_name_ready_for_readme(package_name):
-    versions_url = 'https://www.npmjs.com/package/' + package_name
-    return(versions_url)
-
-def drews_grepping(list_from_csv):
-    perp_url = list_from_csv[0]
-    perp_readme = get_readme_of_page(perp_url)
-    for target in list_from_csv:
-        re.match(target, perp_readme) 
-
-the_soup = print(getAllVersions('https://www.npmjs.com/package/lodash?activeTab=versions'))
