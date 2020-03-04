@@ -1,560 +1,587 @@
- axe-cli 		does not match in the readme of 		ace-cli
- gry 		does not match in the readme of 		gyr
+ svg-injector 		does not match in the readme of 		svg-injector-2
  has-require 		does not match in the readme of 		hash-require
+ lrucache 		does not match in the readme of 		cache-lru
+ express-ws 		does not match in the readme of 		express-whs
+ gry 		does not match in the readme of 		gyr
  repeated_characters 		does not match in the readme of 		package_name
  omitted_characters 		does not match in the readme of 		package_name
  swapped_characters 		does not match in the readme of 		package_name
  swapped_words 		does not match in the readme of 		package_name
  common_typos 		does not match in the readme of 		package_name
  version_numbers 		does not match in the readme of 		package_name
- lrucache 		does not match in the readme of 		cache-lru
- redux-localstorage 		does not match in the readme of 		redux-local-storage
- redux-localstorage 		does not match in the readme of 		redux-local-storage
- express-ws 		does not match in the readme of 		express-whs
- idb 		does not match in the readme of 		dib
+ axe-cli 		does not match in the readme of 		ace-cli
  joi 		does not match in the readme of 		jii
+ redux-localstorage 		does not match in the readme of 		redux-local-storage
+ redux-localstorage 		does not match in the readme of 		redux-local-storage
+ idb 		does not match in the readme of 		dib
+ ow 		does not match in the readme of 		o3
  spawnd 		does not match in the readme of 		spawnx
- svg-injector 		does not match in the readme of 		svg-injector-2
- async-lock 		does not match in the readme of 		lock-async
- parent-module 		does not match in the readme of 		module-parent
- bolt 		does not match in the readme of 		volt
- http-proxy 		does not match in the readme of 		proxy-http
- vdf 		does not match in the readme of 		vsf
- bootstrap-sass 		does not match in the readme of 		sass-bootstrap
- creditcards 		does not match in the readme of 		s-creditcard
- web3-eth-accounts 		does not match in the readme of 		sweb3-eth-accounts
  zlib 		does not match in the readme of 		zoib
- boom 		does not match in the readme of 		blom
- form-serialize 		does not match in the readme of 		serialize-form
- podium 		does not match in the readme of 		lodium
- test 		does not match in the readme of 		test2
+ web3-eth-accounts 		does not match in the readme of 		sweb3-eth-accounts
+ http-proxy 		does not match in the readme of 		proxy-http
+ async-lock 		does not match in the readme of 		lock-async
  bootstrap 		does not match in the readme of 		bbootstrap
- iscroll 		does not match in the readme of 		lscroll
- fury 		does not match in the readme of 		gury
- bootstrap 		does not match in the readme of 		nootstrap
- rest 		does not match in the readme of 		restt
- rss 		does not match in the readme of 		rsa
- koa-passport 		does not match in the readme of 		passport-koa
- react-native-htmlview 		does not match in the readme of 		react-native-html-view
- react-native-htmlview 		does not match in the readme of 		react-native-html-view
- typedarray 		does not match in the readme of 		typed-array
- typedarray 		does not match in the readme of 		typed-array
- typedarray 		does not match in the readme of 		typed-array
- caw 		does not match in the readme of 		csw
- yup 		does not match in the readme of 		tup
- xhr-mock 		does not match in the readme of 		chr-mock
- express 		does not match in the readme of 		express4
- express 		does not match in the readme of 		express4
- vows 		does not match in the readme of 		cows
+ bootstrap-sass 		does not match in the readme of 		sass-bootstrap
+ parent-module 		does not match in the readme of 		module-parent
+ vdf 		does not match in the readme of 		vsf
  js-calendar 		does not match in the readme of 		calendar-js
+ creditcards 		does not match in the readme of 		s-creditcard
+ bolt 		does not match in the readme of 		volt
+ boom 		does not match in the readme of 		blom
+ iscroll 		does not match in the readme of 		lscroll
+ rss 		does not match in the readme of 		rsa
+ podium 		does not match in the readme of 		lodium
+ koa-passport 		does not match in the readme of 		passport-koa
+ form-serialize 		does not match in the readme of 		serialize-form
+ test 		does not match in the readme of 		test2
+ bootstrap 		does not match in the readme of 		nootstrap
+ xhr-mock 		does not match in the readme of 		chr-mock
+ rest 		does not match in the readme of 		restt
+ caw 		does not match in the readme of 		csw
+ fury 		does not match in the readme of 		gury
+ yup 		does not match in the readme of 		tup
+ express 		does not match in the readme of 		express4
+ express 		does not match in the readme of 		express4
+ is-dom 		does not match in the readme of 		js-dom
+ angular2-signaturepad 		does not match in the readme of 		angular2-signature-pad
+ angular2-signaturepad 		does not match in the readme of 		angular2-signature-pad
+ shelljs 		does not match in the readme of 		shell.js
+ shelljs 		does not match in the readme of 		shell.js
+ react-native-htmlview 		does not match in the readme of 		react-native-html-view
+ shelljs 		does not match in the readme of 		shell.js
+ react-native-htmlview 		does not match in the readme of 		react-native-html-view
+ typedarray 		does not match in the readme of 		typed-array
+ typedarray 		does not match in the readme of 		typed-array
+ typedarray 		does not match in the readme of 		typed-array
  esutils 		does not match in the readme of 		eslutils
- minimist 		does not match in the readme of 		minimist2
- minimist 		does not match in the readme of 		minimist2
- ci 		does not match in the readme of 		cy
- ncp 		does not match in the readme of 		nco
- shelljs 		does not match in the readme of 		shell.js
- shelljs 		does not match in the readme of 		shell.js
- shelljs 		does not match in the readme of 		shell.js
- angular2-signaturepad 		does not match in the readme of 		angular2-signature-pad
- angular2-signaturepad 		does not match in the readme of 		angular2-signature-pad
+ vows 		does not match in the readme of 		cows
+ vue-pagination-2 		does not match in the readme of 		vue-pagination-3
+ scroll 		does not match in the readme of 		mscroll
+ ts-jest 		does not match in the readme of 		rs-jest
  test 		does not match in the readme of 		ttttttttttttttest
- react-native-datepicker 		does not match in the readme of 		react-native-date-picker
- react-native-datepicker 		does not match in the readme of 		react-native-date-picker
+ ci 		does not match in the readme of 		cy
  json 		does not match in the readme of 		json7
  yaku 		does not match in the readme of 		haku
- scroll 		does not match in the readme of 		mscroll
- vue-pagination-2 		does not match in the readme of 		vue-pagination-3
- fs 		does not match in the readme of 		fs_
- fs 		does not match in the readme of 		fs_
- i 		does not match in the readme of 		y
- is-dom 		does not match in the readme of 		js-dom
+ minimist 		does not match in the readme of 		minimist2
+ minimist 		does not match in the readme of 		minimist2
+ ncp 		does not match in the readme of 		nco
+ react-native-datepicker 		does not match in the readme of 		react-native-date-picker
+ react-native-datepicker 		does not match in the readme of 		react-native-date-picker
+ esdoc-ecmascript-proposal-plugin 		does not match in the readme of 		esdoc2-ecmascript-proposal-plugin
  time 		does not match in the readme of 		ttime
  tsc 		does not match in the readme of 		tec
- esdoc-ecmascript-proposal-plugin 		does not match in the readme of 		esdoc2-ecmascript-proposal-plugin
+ xpath 		does not match in the readme of 		spath
  entities 		does not match in the readme of 		entitiex
- ow 		does not match in the readme of 		o3
- catbox 		does not match in the readme of 		cat-box
- catbox 		does not match in the readme of 		cat-box
- catbox 		does not match in the readme of 		cat-box
  twig 		does not match in the readme of 		twug
- hdkey 		does not match in the readme of 		hdeky
- ts-jest 		does not match in the readme of 		rs-jest
- bin-build 		does not match in the readme of 		build-bin
  type-check 		does not match in the readme of 		types-check
  check-types 		does not match in the readme of 		types-check
- xpath 		does not match in the readme of 		spath
- rai 		does not match in the readme of 		rak
+ catbox 		does not match in the readme of 		cat-box
+ catbox 		does not match in the readme of 		cat-box
+ catbox 		does not match in the readme of 		cat-box
+ i 		does not match in the readme of 		y
+ fs 		does not match in the readme of 		fs_
+ fs 		does not match in the readme of 		fs_
+ bin-build 		does not match in the readme of 		build-bin
  morphdom 		does not match in the readme of 		dom-morph
- passport-jwt 		does not match in the readme of 		passport-jwtr
- socksv5 		does not match in the readme of 		rsocksv5
+ hdkey 		does not match in the readme of 		hdeky
  prompt-sync 		does not match in the readme of 		sync-prompt
+ rai 		does not match in the readme of 		rak
+ moment 		does not match in the readme of 		miment
+ passport-jwt 		does not match in the readme of 		passport-jwtr
  update 		does not match in the readme of 		updatr
- modelo 		does not match in the readme of 		modello
- modelo 		does not match in the readme of 		modello
+ socksv5 		does not match in the readme of 		rsocksv5
+ ora 		does not match in the readme of 		orz
+ json-diff 		does not match in the readme of 		diff-json
  eve 		does not match in the readme of 		vee
- quill-mention 		does not match in the readme of 		quill-mentions
- lab 		does not match in the readme of 		kab
+ express-hbs 		does not match in the readme of 		express-hbsc
+ modelo 		does not match in the readme of 		modello
+ modelo 		does not match in the readme of 		modello
  react-datepicker 		does not match in the readme of 		react-datepicker3
  react-datepicker 		does not match in the readme of 		react-datepicker3
  tfunk 		does not match in the readme of 		trunk
- bcrypt 		does not match in the readme of 		dbcrypt
- express-hbs 		does not match in the readme of 		express-hbsc
- http-auth 		does not match in the readme of 		dhttp-auth
- webpack 		does not match in the readme of 		ywebpack
- g 		does not match in the readme of 		g0
- rgb 		does not match in the readme of 		rfb
- ora 		does not match in the readme of 		orz
- json-diff 		does not match in the readme of 		diff-json
- md5 		does not match in the readme of 		md6
- mongo 		does not match in the readme of 		mon-go
- mongo 		does not match in the readme of 		mon-go
- os 		does not match in the readme of 		oe
- siema 		does not match in the readme of 		skema
- lcov-parse 		does not match in the readme of 		lcov-parser
- moment 		does not match in the readme of 		miment
- looper 		does not match in the readme of 		alooper
- is-stream 		does not match in the readme of 		ims-stream
  enum 		does not match in the readme of 		enum2
- google-maps-react 		does not match in the readme of 		maps-google-react
+ quill-mention 		does not match in the readme of 		quill-mentions
+ http-auth 		does not match in the readme of 		dhttp-auth
+ bcrypt 		does not match in the readme of 		dbcrypt
+ looper 		does not match in the readme of 		alooper
+ lab 		does not match in the readme of 		kab
+ g 		does not match in the readme of 		g0
+ lcov-parse 		does not match in the readme of 		lcov-parser
+ rgb 		does not match in the readme of 		rfb
+ webpack 		does not match in the readme of 		ywebpack
  d 		does not match in the readme of 		dd
  dc 		does not match in the readme of 		dd
- babel-plugin-react-css-modules 		does not match in the readme of 		babel-plugin-css-modules-react
- magicli 		does not match in the readme of 		magi-cli
- magicli 		does not match in the readme of 		magi-cli
- magicli 		does not match in the readme of 		magi-cli
- web3-core-method 		does not match in the readme of 		sweb3-core-method
- nan 		does not match in the readme of 		ann
- mongo 		does not match in the readme of 		monggo
- sdp 		does not match in the readme of 		wdp
- ci 		does not match in the readme of 		c1
  printf 		does not match in the readme of 		printd
+ siema 		does not match in the readme of 		skema
+ os 		does not match in the readme of 		oe
+ mongo 		does not match in the readme of 		mon-go
+ mongo 		does not match in the readme of 		mon-go
+ md5 		does not match in the readme of 		md6
+ magicli 		does not match in the readme of 		magi-cli
+ magicli 		does not match in the readme of 		magi-cli
+ magicli 		does not match in the readme of 		magi-cli
+ is-stream 		does not match in the readme of 		ims-stream
+ mongo 		does not match in the readme of 		monggo
+ nan 		does not match in the readme of 		ann
+ google-maps-react 		does not match in the readme of 		maps-google-react
+ sdp 		does not match in the readme of 		wdp
+ web3-core-method 		does not match in the readme of 		sweb3-core-method
  stream-to-buffer 		does not match in the readme of 		buffer-to-stream
- nets 		does not match in the readme of 		bets
+ ci 		does not match in the readme of 		c1
+ babel-plugin-react-css-modules 		does not match in the readme of 		babel-plugin-css-modules-react
+ capitalize 		does not match in the readme of 		capitalized
  react-redux-form 		does not match in the readme of 		react-redux-fork
+ ranges-merge 		does not match in the readme of 		merge-ranges
  engine 		does not match in the readme of 		pengine
- any-promise 		does not match in the readme of 		promise.any
- gaze 		does not match in the readme of 		baze
+ sntp 		does not match in the readme of 		smtp
  mjml 		does not match in the readme of 		mjml1
  ccount 		does not match in the readme of 		fcount
- capitalize 		does not match in the readme of 		capitalized
- sntp 		does not match in the readme of 		smtp
+ any-promise 		does not match in the readme of 		promise.any
+ nets 		does not match in the readme of 		bets
  #NAME? 		does not match in the readme of 		#NAME?
- ranges-merge 		does not match in the readme of 		merge-ranges
+ loggly 		does not match in the readme of 		logfly
  longest 		does not match in the readme of 		lognest
- ref-struct 		does not match in the readme of 		ref-strict
+ gaze 		does not match in the readme of 		baze
  nano 		does not match in the readme of 		mano
+ is-node 		does not match in the readme of 		is_node
+ is-node 		does not match in the readme of 		is_node
  babel-loader 		does not match in the readme of 		babel-loqder
- is-node 		does not match in the readme of 		is_node
- is-node 		does not match in the readme of 		is_node
  weekstart 		does not match in the readme of 		week1start
- highcharts-ng 		does not match in the readme of 		highcharts-ng2
- highcharts-ng 		does not match in the readme of 		highcharts-ng2
  try-json-parse 		does not match in the readme of 		try-parse-json
+ textlint 		does not match in the readme of 		testlint
+ ref-struct 		does not match in the readme of 		ref-strict
+ highcharts-ng 		does not match in the readme of 		highcharts-ng2
+ highcharts-ng 		does not match in the readme of 		highcharts-ng2
  umd 		does not match in the readme of 		udm
  express-session 		does not match in the readme of 		express-sesssion
- watchr 		does not match in the readme of 		watchd
- throttle-debounce 		does not match in the readme of 		debounce-throttle
- xrs 		does not match in the readme of 		xts
- promisify-event 		does not match in the readme of 		event-promisify
- file-stat 		does not match in the readme of 		vile-stat
- pino 		does not match in the readme of 		lino
- textlint 		does not match in the readme of 		testlint
- js-data 		does not match in the readme of 		data_js
  rc-tooltip 		does not match in the readme of 		rce-tooltip
- loggly 		does not match in the readme of 		logfly
+ throttle-debounce 		does not match in the readme of 		debounce-throttle
  favico.js 		does not match in the readme of 		favico2.js
+ file-stat 		does not match in the readme of 		vile-stat
+ js-data 		does not match in the readme of 		data_js
+ pino 		does not match in the readme of 		lino
+ xrs 		does not match in the readme of 		xts
  jed 		does not match in the readme of 		hed
- gulp-template 		does not match in the readme of 		gulp-templater
- penpal 		does not match in the readme of 		pempal
+ promisify-event 		does not match in the readme of 		event-promisify
  stringstream 		does not match in the readme of 		stream-string
- eosjs 		does not match in the readme of 		js-eos
- glam 		does not match in the readme of 		flam
  unique-filename 		does not match in the readme of 		unique-file-name
  unique-filename 		does not match in the readme of 		unique-file-name
- stats.js 		does not match in the readme of 		rstats.js
+ gulp-template 		does not match in the readme of 		gulp-templater
+ watchr 		does not match in the readme of 		watchd
+ jsoneditor 		does not match in the readme of 		json-editor
+ jsoneditor 		does not match in the readme of 		json-editor
+ jsoneditor 		does not match in the readme of 		json-editor
  svg-loader 		does not match in the readme of 		svgs-loader
- adal-angular 		does not match in the readme of 		adal-angular4
- adal-angular 		does not match in the readme of 		adal-angular4
+ eosjs 		does not match in the readme of 		js-eos
+ penpal 		does not match in the readme of 		pempal
+ stats.js 		does not match in the readme of 		rstats.js
  fs-promise 		does not match in the readme of 		fs-promise2
  fs-promise 		does not match in the readme of 		fs-promise2
+ glam 		does not match in the readme of 		flam
+ engine 		does not match in the readme of 		xengine
+ adal-angular 		does not match in the readme of 		adal-angular4
+ adal-angular 		does not match in the readme of 		adal-angular4
+ mingo 		does not match in the readme of 		jingo
+ finity 		does not match in the readme of 		afinity
  ol 		does not match in the readme of 		oo
  papi 		does not match in the readme of 		oapi
- finity 		does not match in the readme of 		afinity
- mingo 		does not match in the readme of 		jingo
- cbify 		does not match in the readme of 		dbify
- engine 		does not match in the readme of 		xengine
- file 		does not match in the readme of 		tile
- ip6 		does not match in the readme of 		ipt
  ng-pick-datetime 		does not match in the readme of 		ng4-pick-datetime
  validator 		does not match in the readme of 		validathor
- node-ask 		does not match in the readme of 		node-task
- sha.js 		does not match in the readme of 		sha1.js
- jsoneditor 		does not match in the readme of 		json-editor
- jsoneditor 		does not match in the readme of 		json-editor
- js-sha1 		does not match in the readme of 		sha1.js
- jsoneditor 		does not match in the readme of 		json-editor
- jsonexport 		does not match in the readme of 		json-export
- jsonexport 		does not match in the readme of 		json-export
- jsonexport 		does not match in the readme of 		json-export
+ ip6 		does not match in the readme of 		ipt
+ cbify 		does not match in the readme of 		dbify
+ file 		does not match in the readme of 		tile
  component-inherit 		does not match in the readme of 		inherit-component
- css-modules-typescript-loader 		does not match in the readme of 		typescript-css-modules-loader
- run-queue 		does not match in the readme of 		fun-queue
+ sha.js 		does not match in the readme of 		sha1.js
+ js-sha1 		does not match in the readme of 		sha1.js
+ jsonexport 		does not match in the readme of 		json-export
+ jsonexport 		does not match in the readme of 		json-export
+ jsonexport 		does not match in the readme of 		json-export
  bops 		does not match in the readme of 		nops
- got 		does not match in the readme of 		vot
- getport 		does not match in the readme of 		getaport
+ assets 		does not match in the readme of 		asserts
+ node-ask 		does not match in the readme of 		node-task
+ css-modules-typescript-loader 		does not match in the readme of 		typescript-css-modules-loader
+ gry 		does not match in the readme of 		vry
  ids 		does not match in the readme of 		ies
+ got 		does not match in the readme of 		vot
+ to-time 		does not match in the readme of 		time-to
+ swiper 		does not match in the readme of 		xwiper
  xmlhttprequest 		does not match in the readme of 		xmlhttp-request
- moment 		does not match in the readme of 		moment_2
  xmlhttprequest 		does not match in the readme of 		xmlhttp-request
- bip39 		does not match in the readme of 		bpi39
  xmlhttprequest 		does not match in the readme of 		xmlhttp-request
  yo 		does not match in the readme of 		y0
- read 		does not match in the readme of 		rear
- assets 		does not match in the readme of 		asserts
- swiper 		does not match in the readme of 		xwiper
- to-time 		does not match in the readme of 		time-to
+ moment 		does not match in the readme of 		moment_2
  deline 		does not match in the readme of 		d3line
+ run-queue 		does not match in the readme of 		fun-queue
+ getport 		does not match in the readme of 		getaport
+ bip39 		does not match in the readme of 		bpi39
+ hnp 		does not match in the readme of 		ynp
+ read 		does not match in the readme of 		rear
  vue 		does not match in the readme of 		vue7
+ call 		does not match in the readme of 		xall
+ stream-iterate 		does not match in the readme of 		iterate-stream
+ eslint-config-xo 		does not match in the readme of 		eslint-config-xop
+ regression 		does not match in the readme of 		lregression
+ nib 		does not match in the readme of 		nih
  is-set 		does not match in the readme of 		its-set
  #NAME? 		does not match in the readme of 		#NAME?
- nib 		does not match in the readme of 		nih
- eslint-config-xo 		does not match in the readme of 		eslint-config-xop
- hnp 		does not match in the readme of 		ynp
- call 		does not match in the readme of 		xall
+ socket.io 		does not match in the readme of 		socket.io2
+ socket.io 		does not match in the readme of 		socket.io2
+ jslint 		does not match in the readme of 		kslint
  swagger-node-runner 		does not match in the readme of 		swagger-node-runner1
  swagger-node-runner 		does not match in the readme of 		swagger-node-runner1
  get-prototype-of 		does not match in the readme of 		get_prototype_of
- jslint 		does not match in the readme of 		kslint
- regression 		does not match in the readme of 		lregression
- static-eval 		does not match in the readme of 		static-eval2
- static-eval 		does not match in the readme of 		static-eval2
- v-viewer 		does not match in the readme of 		v-viewers
- knex 		does not match in the readme of 		kmex
  notp 		does not match in the readme of 		jotp
- stream-iterate 		does not match in the readme of 		iterate-stream
- react-country-flag 		does not match in the readme of 		react-country-flags
- co 		does not match in the readme of 		cco
- vue 		does not match in the readme of 		cue
+ knex 		does not match in the readme of 		kmex
  lie 		does not match in the readme of 		liw
- react-native-button 		does not match in the readme of 		react-native-lbutton
- grunt-usemin 		does not match in the readme of 		grunt-usemin2
- grunt-usemin 		does not match in the readme of 		grunt-usemin2
+ v-viewer 		does not match in the readme of 		v-viewers
+ static-eval 		does not match in the readme of 		static-eval2
+ static-eval 		does not match in the readme of 		static-eval2
  stream-array 		does not match in the readme of 		array-stream
- react-popover 		does not match in the readme of 		react-popover2
- react-popover 		does not match in the readme of 		react-popover2
- bluebird 		does not match in the readme of 		blueibrd
- gulp-rev 		does not match in the readme of 		gulp-ref
- cwd 		does not match in the readme of 		cad
- json-to-ast 		does not match in the readme of 		ast-to-json
- imap 		does not match in the readme of 		miap
- remark-react 		does not match in the readme of 		remark-redact
- sliced 		does not match in the readme of 		slices
- zip-webpack-plugin 		does not match in the readme of 		webpack-zip-plugin
- ref 		does not match in the readme of 		rev
- angular-calendar 		does not match in the readme of 		angular4-calendar
- dmd 		does not match in the readme of 		dmc
+ co 		does not match in the readme of 		cco
  tracer 		does not match in the readme of 		tracery
- nyc 		does not match in the readme of 		nic
- dnscache 		does not match in the readme of 		dns-cache
- dnscache 		does not match in the readme of 		dns-cache
- dnscache 		does not match in the readme of 		dns-cache
- ejs 		does not match in the readme of 		3js
+ run 		does not match in the readme of 		runnn
+ react-country-flag 		does not match in the readme of 		react-country-flags
+ grunt-usemin 		does not match in the readme of 		grunt-usemin2
+ grunt-usemin 		does not match in the readme of 		grunt-usemin2
+ bluebird 		does not match in the readme of 		blueibrd
+ react-native-button 		does not match in the readme of 		react-native-lbutton
  vis 		does not match in the readme of 		vls
- react-is 		does not match in the readme of 		react-os
- array-flatten 		does not match in the readme of 		flatten-array
- socket.io 		does not match in the readme of 		socket.io2
- socket.io 		does not match in the readme of 		socket.io2
- glamor 		does not match in the readme of 		glamour
- rc-tabs 		does not match in the readme of 		dc-tabs
- express-handlebars 		does not match in the readme of 		express4-handlebars
- rlp 		does not match in the readme of 		rll
+ gulp-rev 		does not match in the readme of 		gulp-ref
+ vue 		does not match in the readme of 		cue
+ react-popover 		does not match in the readme of 		react-popover2
+ react-popover 		does not match in the readme of 		react-popover2
+ sliced 		does not match in the readme of 		slices
+ cwd 		does not match in the readme of 		cad
+ zip-webpack-plugin 		does not match in the readme of 		webpack-zip-plugin
+ remark-react 		does not match in the readme of 		remark-redact
+ dmd 		does not match in the readme of 		dmc
+ ref 		does not match in the readme of 		rev
  format 		does not match in the readme of 		formata
- pem 		does not match in the readme of 		pen
+ angular-calendar 		does not match in the readme of 		angular4-calendar
+ react-is 		does not match in the readme of 		react-os
+ json-to-ast 		does not match in the readme of 		ast-to-json
+ dnscache 		does not match in the readme of 		dns-cache
+ dnscache 		does not match in the readme of 		dns-cache
+ dnscache 		does not match in the readme of 		dns-cache
+ imap 		does not match in the readme of 		miap
+ express-handlebars 		does not match in the readme of 		express4-handlebars
+ rc-tabs 		does not match in the readme of 		dc-tabs
+ glamor 		does not match in the readme of 		glamour
+ nyc 		does not match in the readme of 		nic
  #NAME? 		does not match in the readme of 		#NAME?
- gry 		does not match in the readme of 		vry
- react-quill 		does not match in the readme of 		quill-react
+ ejs 		does not match in the readme of 		3js
  tryor 		does not match in the readme of 		trypr
- mu2 		does not match in the readme of 		my2
- sass-mq 		does not match in the readme of 		sass-mqs
- run-node 		does not match in the readme of 		run-mode
- vfile 		does not match in the readme of 		cfile
- ap 		does not match in the readme of 		aap
+ array-flatten 		does not match in the readme of 		flatten-array
+ rlp 		does not match in the readme of 		rll
+ pem 		does not match in the readme of 		pen
  mana 		does not match in the readme of 		nana
  is_js 		does not match in the readme of 		is-js
  is_js 		does not match in the readme of 		is-js
+ sass-mq 		does not match in the readme of 		sass-mqs
+ ap 		does not match in the readme of 		aap
+ mu2 		does not match in the readme of 		my2
+ react-quill 		does not match in the readme of 		quill-react
  mingo 		does not match in the readme of 		minbo
- mv 		does not match in the readme of 		nv
+ fork-ts-checker-webpack-plugin 		does not match in the readme of 		fork-ts-checker-webpack-plugin2
+ fork-ts-checker-webpack-plugin 		does not match in the readme of 		fork-ts-checker-webpack-plugin2
  jest-config 		does not match in the readme of 		nest-config
- run 		does not match in the readme of 		runnn
- type-check 		does not match in the readme of 		check-type
- base64url 		does not match in the readme of 		url-base64
- defu 		does not match in the readme of 		defi
- fork-ts-checker-webpack-plugin 		does not match in the readme of 		fork-ts-checker-webpack-plugin2
- fork-ts-checker-webpack-plugin 		does not match in the readme of 		fork-ts-checker-webpack-plugin2
+ run-node 		does not match in the readme of 		run-mode
+ vfile 		does not match in the readme of 		cfile
  stream-connect 		does not match in the readme of 		connect-stream
+ mv 		does not match in the readme of 		nv
+ type-check 		does not match in the readme of 		check-type
+ circular-json 		does not match in the readme of 		json-circular
+ base64url 		does not match in the readme of 		url-base64
+ element-ui 		does not match in the readme of 		elements-ui
+ defu 		does not match in the readme of 		defi
+ nodemon 		does not match in the readme of 		gnodemon
  express 		does not match in the readme of 		expressq
  mock-res 		does not match in the readme of 		mock-rest
- nodemon 		does not match in the readme of 		gnodemon
- circular-json 		does not match in the readme of 		json-circular
  csv 		does not match in the readme of 		fsv
- echarts 		does not match in the readme of 		echartz
  node-hid 		does not match in the readme of 		node-hwid
- tracer 		does not match in the readme of 		tracer2
- tracer 		does not match in the readme of 		tracer2
- portal-vue 		does not match in the readme of 		vue-portal
- vasync 		does not match in the readme of 		evasync
- ret 		does not match in the readme of 		rte
- crypto 		does not match in the readme of 		icrypto
- node-uuid 		does not match in the readme of 		uuid-node
+ echarts 		does not match in the readme of 		echartz
  concat-map 		does not match in the readme of 		concat-maps
- element-ui 		does not match in the readme of 		elements-ui
+ ret 		does not match in the readme of 		rte
+ tracer 		does not match in the readme of 		tracer2
+ tracer 		does not match in the readme of 		tracer2
  node-res 		does not match in the readme of 		node-reqs
+ portal-vue 		does not match in the readme of 		vue-portal
  walk 		does not match in the readme of 		walk5
+ crypto 		does not match in the readme of 		icrypto
  fb 		does not match in the readme of 		fn
- mquery 		does not match in the readme of 		myquery
- string-raw 		does not match in the readme of 		raw-string
- socket.io-client 		does not match in the readme of 		psocket.io-client
- wrapper-webpack-plugin 		does not match in the readme of 		webpack-wrapper-plugin
- jspath 		does not match in the readme of 		jsxpath
- device 		does not match in the readme of 		rdevice
- fs 		does not match in the readme of 		fs-
- fs 		does not match in the readme of 		fs-
  nets 		does not match in the readme of 		netw
+ mquery 		does not match in the readme of 		myquery
+ wrapper-webpack-plugin 		does not match in the readme of 		webpack-wrapper-plugin
+ socket.io-client 		does not match in the readme of 		psocket.io-client
+ jspath 		does not match in the readme of 		jsxpath
+ string-raw 		does not match in the readme of 		raw-string
+ node-uuid 		does not match in the readme of 		uuid-node
+ fs 		does not match in the readme of 		fs-
+ fs 		does not match in the readme of 		fs-
+ commander 		does not match in the readme of 		commandeer
+ vasync 		does not match in the readme of 		evasync
+ jsdom 		does not match in the readme of 		dom.js
+ device 		does not match in the readme of 		rdevice
  jose 		does not match in the readme of 		mose
- rc-util 		does not match in the readme of 		dc-util
- async-redis 		does not match in the readme of 		redis-async
  escaper 		does not match in the readme of 		escaped
  react-image-gallery 		does not match in the readme of 		image-gallery-react
- memorystore 		does not match in the readme of 		memory-store
- memorystore 		does not match in the readme of 		memory-store
- memorystore 		does not match in the readme of 		memory-store
+ rc-util 		does not match in the readme of 		dc-util
+ async-redis 		does not match in the readme of 		redis-async
+ enumify 		does not match in the readme of 		enumify2
+ enumify 		does not match in the readme of 		enumify2
  r-json 		does not match in the readme of 		d-json
- reduce 		does not match in the readme of 		redice
  request 		does not match in the readme of 		requesto
- commander 		does not match in the readme of 		commandeer
  repeat-string 		does not match in the readme of 		string-repeat
- ol 		does not match in the readme of 		lo
- li 		does not match in the readme of 		lo
- angular 		does not match in the readme of 		angular3
- angular 		does not match in the readme of 		angular3
+ memorystore 		does not match in the readme of 		memory-store
+ memorystore 		does not match in the readme of 		memory-store
+ memorystore 		does not match in the readme of 		memory-store
  got 		does not match in the readme of 		gkt
  jscs 		does not match in the readme of 		jsds
- enumify 		does not match in the readme of 		enumify2
- enumify 		does not match in the readme of 		enumify2
- net 		does not match in the readme of 		jet
+ json-parser 		does not match in the readme of 		json-parser2
+ json-parser 		does not match in the readme of 		json-parser2
+ angular 		does not match in the readme of 		angular3
+ angular 		does not match in the readme of 		angular3
+ reduce 		does not match in the readme of 		redice
+ ol 		does not match in the readme of 		lo
+ li 		does not match in the readme of 		lo
  glob 		does not match in the readme of 		glon
- jsdom 		does not match in the readme of 		dom.js
- decko 		does not match in the readme of 		deckk
- mitt 		does not match in the readme of 		kitt
- node 		does not match in the readme of 		node1
- glob-fs 		does not match in the readme of 		fs-glob
- kss 		does not match in the readme of 		kas
- memoize-decorator 		does not match in the readme of 		decorator-memoize
- semantic-ui-css 		does not match in the readme of 		semantic-ui-scss
- json-parser 		does not match in the readme of 		json-parser2
- json-parser 		does not match in the readme of 		json-parser2
+ net 		does not match in the readme of 		jet
  li 		does not match in the readme of 		l1
+ mitt 		does not match in the readme of 		kitt
+ glob-fs 		does not match in the readme of 		fs-glob
+ semantic-ui-css 		does not match in the readme of 		semantic-ui-scss
+ memoize-decorator 		does not match in the readme of 		decorator-memoize
+ decko 		does not match in the readme of 		deckk
  recharts 		does not match in the readme of 		rechartssssssss
- conf 		does not match in the readme of 		cond
- tail 		does not match in the readme of 		tall
- jquery 		does not match in the readme of 		jqeury
  rc-form 		does not match in the readme of 		cr-form
- linez 		does not match in the readme of 		lines
- proj4 		does not match in the readme of 		proj3
- require 		does not match in the readme of 		requiref
+ jquery 		does not match in the readme of 		jqeury
+ node 		does not match in the readme of 		node1
+ conf 		does not match in the readme of 		cond
+ kss 		does not match in the readme of 		kas
  is-tar 		does not match in the readme of 		is-rar
+ tail 		does not match in the readme of 		tall
+ require 		does not match in the readme of 		requiref
  requireg 		does not match in the readme of 		requiref
  ncp 		does not match in the readme of 		nccp
- geojson-random 		does not match in the readme of 		random-geojson
+ fs-utils 		does not match in the readme of 		fsm-utils
+ proj4 		does not match in the readme of 		proj3
  sequelize 		does not match in the readme of 		sequelizex
- web3-providers-ws 		does not match in the readme of 		tweb3-providers-ws
+ geojson-random 		does not match in the readme of 		random-geojson
  rollup-plugin-typescript 		does not match in the readme of 		rollup-plugin-typescript3
  rollup-plugin-typescript2 		does not match in the readme of 		rollup-plugin-typescript3
  rollup-plugin-typescript 		does not match in the readme of 		rollup-plugin-typescript3
- fs-utils 		does not match in the readme of 		fsm-utils
- react-favicon 		does not match in the readme of 		favicon-react
- react-swipe 		does not match in the readme of 		react-swiper
- underscore 		does not match in the readme of 		undesrcore
- ref 		does not match in the readme of 		rref
- in-viewport 		does not match in the readme of 		in_viewport
- in-viewport 		does not match in the readme of 		in_viewport
+ linez 		does not match in the readme of 		lines
  spawn-cmd 		does not match in the readme of 		cmd-spawn
- ejs 		does not match in the readme of 		rjs
- quasar 		does not match in the readme of 		quiasar
- simple-react-calendar 		does not match in the readme of 		react-simple-calendar
- xo 		does not match in the readme of 		xk
- react-slider 		does not match in the readme of 		preact-slider
- testing 		does not match in the readme of 		ing-test
- testing 		does not match in the readme of 		testing2
- testing 		does not match in the readme of 		testing2
- log-ok 		does not match in the readme of 		ok-log
- fclone 		does not match in the readme of 		rclone
- ora 		does not match in the readme of 		ira
- toml 		does not match in the readme of 		tlml
- bun 		does not match in the readme of 		nun
- time-diff 		does not match in the readme of 		times-diff
- nets 		does not match in the readme of 		netz
- react-calendar 		does not match in the readme of 		preact-calendar
- gatsby-transformer-json 		does not match in the readme of 		gatsby-transformer-hjson
- axios 		does not match in the readme of 		axioss
  anchor 		does not match in the readme of 		anchora
  pretty-error 		does not match in the readme of 		pretty-errors
- findit 		does not match in the readme of 		findir
+ react-favicon 		does not match in the readme of 		favicon-react
+ web3-providers-ws 		does not match in the readme of 		tweb3-providers-ws
+ underscore 		does not match in the readme of 		undesrcore
+ react-slider 		does not match in the readme of 		preact-slider
+ simple-react-calendar 		does not match in the readme of 		react-simple-calendar
+ ejs 		does not match in the readme of 		rjs
+ in-viewport 		does not match in the readme of 		in_viewport
+ in-viewport 		does not match in the readme of 		in_viewport
+ ref 		does not match in the readme of 		rref
+ react-swipe 		does not match in the readme of 		react-swiper
+ testing 		does not match in the readme of 		ing-test
+ quasar 		does not match in the readme of 		quiasar
+ xo 		does not match in the readme of 		xk
+ bun 		does not match in the readme of 		nun
+ testing 		does not match in the readme of 		testing2
+ testing 		does not match in the readme of 		testing2
+ fclone 		does not match in the readme of 		rclone
+ nets 		does not match in the readme of 		netz
+ time-diff 		does not match in the readme of 		times-diff
+ ora 		does not match in the readme of 		ira
+ gatsby-transformer-json 		does not match in the readme of 		gatsby-transformer-hjson
+ react-calendar 		does not match in the readme of 		preact-calendar
+ log-ok 		does not match in the readme of 		ok-log
+ toml 		does not match in the readme of 		tlml
  anymatch 		does not match in the readme of 		match-any
- three 		does not match in the readme of 		three2
- umd 		does not match in the readme of 		mud
+ react-svg-loader 		does not match in the readme of 		react-svg-loaders
+ axios 		does not match in the readme of 		axioss
  axios 		does not match in the readme of 		wxios
+ umd 		does not match in the readme of 		mud
  promise 		does not match in the readme of 		proxmise
  vis 		does not match in the readme of 		vjs
- tsc 		does not match in the readme of 		tsv
- select 		does not match in the readme of 		kselect
- react-router 		does not match in the readme of 		react-router9
- react-router 		does not match in the readme of 		react-router9
+ findit 		does not match in the readme of 		findir
  crypto-random-string 		does not match in the readme of 		random-crypto-string
- nash 		does not match in the readme of 		hash
- sharp 		does not match in the readme of 		sharp2
- react-svg-loader 		does not match in the readme of 		react-svg-loaders
- memorystore 		does not match in the readme of 		store-memory
  engine-utils 		does not match in the readme of 		jengine-utils
- rai 		does not match in the readme of 		ral
- canonicalize 		does not match in the readme of 		canonicalizer
+ react-router 		does not match in the readme of 		react-router9
+ react-router 		does not match in the readme of 		react-router9
  ini 		does not match in the readme of 		ibi
- ol 		does not match in the readme of 		ll
- vue-select 		does not match in the readme of 		vue-selecty
- raf 		does not match in the readme of 		faf
- gts 		does not match in the readme of 		gte
+ three 		does not match in the readme of 		three2
  nodemon 		does not match in the readme of 		nodaemon
- modernizr 		does not match in the readme of 		modernize
+ sharp 		does not match in the readme of 		sharp2
+ tsc 		does not match in the readme of 		tsv
+ canonicalize 		does not match in the readme of 		canonicalizer
+ select 		does not match in the readme of 		kselect
+ nash 		does not match in the readme of 		hash
+ rai 		does not match in the readme of 		ral
+ gts 		does not match in the readme of 		gte
  npmlog 		does not match in the readme of 		xnpmlog
- css-loader 		does not match in the readme of 		pcss-loader
- gcloud 		does not match in the readme of 		gocloud
+ memorystore 		does not match in the readme of 		store-memory
+ ol 		does not match in the readme of 		ll
  crypto 		does not match in the readme of 		cryptoo
  crypto 		does not match in the readme of 		cryptoo
+ vue-select 		does not match in the readme of 		vue-selecty
  flip-pixels 		does not match in the readme of 		clip-pixels
- sax 		does not match in the readme of 		sac
- unified 		does not match in the readme of 		unifier
+ raf 		does not match in the readme of 		faf
+ modernizr 		does not match in the readme of 		modernize
  promise 		does not match in the readme of 		promisen
+ unified 		does not match in the readme of 		unifier
+ dset 		does not match in the readme of 		cset
+ restructure 		does not match in the readme of 		restructured
+ gcloud 		does not match in the readme of 		gocloud
+ css-loader 		does not match in the readme of 		pcss-loader
+ g 		does not match in the readme of 		f
+ is-url 		does not match in the readme of 		is-uri
+ sax 		does not match in the readme of 		sac
+ component-raf 		does not match in the readme of 		raf-component
+ jquery 		does not match in the readme of 		jquerys
  hooker 		does not match in the readme of 		booker
  jimp 		does not match in the readme of 		jump
- is-url 		does not match in the readme of 		is-uri
- should 		does not match in the readme of 		shoulda
  gulp-git 		does not match in the readme of 		gulp-fit
- jquery 		does not match in the readme of 		jquerys
- component-raf 		does not match in the readme of 		raf-component
- g 		does not match in the readme of 		f
- dot 		does not match in the readme of 		dto
- hbs 		does not match in the readme of 		hbd
+ should 		does not match in the readme of 		shoulda
  ports 		does not match in the readme of 		porte
- vue-carousel 		does not match in the readme of 		vue-carrousel
- vue-carousel 		does not match in the readme of 		vue-carrousel
  units-css 		does not match in the readme of 		css-units
+ hbs 		does not match in the readme of 		hbd
+ vue-carousel 		does not match in the readme of 		vue-carrousel
+ vue-carousel 		does not match in the readme of 		vue-carrousel
+ dot 		does not match in the readme of 		dto
+ ap 		does not match in the readme of 		pa
  underscore 		does not match in the readme of 		underscored
- scrypt 		does not match in the readme of 		scryptc
- hapi 		does not match in the readme of 		napi
- marked 		does not match in the readme of 		marked4
- restructure 		does not match in the readme of 		restructured
- marked 		does not match in the readme of 		marked4
  react-router-config 		does not match in the readme of 		react-config-router
- dset 		does not match in the readme of 		cset
- stompjs 		does not match in the readme of 		stomp-js
- stompjs 		does not match in the readme of 		stomp-js
- stompjs 		does not match in the readme of 		stomp-js
+ scrypt 		does not match in the readme of 		scryptc
+ marked 		does not match in the readme of 		marked4
+ marked 		does not match in the readme of 		marked4
  gitbook 		does not match in the readme of 		githook
+ hapi 		does not match in the readme of 		napi
+ test 		does not match in the readme of 		test3
+ react-is 		does not match in the readme of 		react-ls
  ts-loader 		does not match in the readme of 		ys-loader
+ cli-highlight 		does not match in the readme of 		highlight-cli
+ stompjs 		does not match in the readme of 		stomp-js
+ stompjs 		does not match in the readme of 		stomp-js
+ stompjs 		does not match in the readme of 		stomp-js
  deline 		does not match in the readme of 		feline
+ fb 		does not match in the readme of 		fbbbb
  react-uid 		does not match in the readme of 		react-uix
- nats 		does not match in the readme of 		ants
- antd 		does not match in the readme of 		ants
  hexo 		does not match in the readme of 		nexo
  micro 		does not match in the readme of 		micri
- type-of 		does not match in the readme of 		type.of
- type-of 		does not match in the readme of 		type.of
+ nats 		does not match in the readme of 		ants
+ antd 		does not match in the readme of 		ants
+ vue-ref 		does not match in the readme of 		vue-refs
+ vue-cli 		does not match in the readme of 		zvue-cli
+ gcloud 		does not match in the readme of 		cloud_g
+ base64-url 		does not match in the readme of 		base64-uri
+ eslint-plugin-es 		does not match in the readme of 		eslint-plugin-ejs
  prettyjson 		does not match in the readme of 		json-pretty
  ret 		does not match in the readme of 		rey
- finished 		does not match in the readme of 		finisher
+ type-of 		does not match in the readme of 		type.of
+ type-of 		does not match in the readme of 		type.of
  cropper 		does not match in the readme of 		dropper
- eslint-plugin-es 		does not match in the readme of 		eslint-plugin-ejs
+ finished 		does not match in the readme of 		finisher
  tap 		does not match in the readme of 		yap
+ express-list-endpoints 		does not match in the readme of 		list-endpoints-express
  react-slider 		does not match in the readme of 		react-sliders
- ap 		does not match in the readme of 		pa
  signet 		does not match in the readme of 		signer
  ng-multiselect-dropdown 		does not match in the readme of 		ng-dropdown-multiselect
- sse 		does not match in the readme of 		ses
- react-is 		does not match in the readme of 		react-ls
- test 		does not match in the readme of 		test3
- fb 		does not match in the readme of 		fbbbb
- url-set-query 		does not match in the readme of 		url-query-set
- express-list-endpoints 		does not match in the readme of 		list-endpoints-express
- base64-url 		does not match in the readme of 		base64-uri
  object-hash 		does not match in the readme of 		hash-object
- base-x 		does not match in the readme of 		base-vx
+ fancy-log 		does not match in the readme of 		fancy-logs
+ url-set-query 		does not match in the readme of 		url-query-set
  webpack-s3-plugin 		does not match in the readme of 		s3-webpack-plugin
+ npmi 		does not match in the readme of 		npm1
+ npm 		does not match in the readme of 		npm1
+ sse 		does not match in the readme of 		ses
+ base-x 		does not match in the readme of 		base-vx
  react-youtube 		does not match in the readme of 		youtube-react
  vxx 		does not match in the readme of 		xvx
  is-map 		does not match in the readme of 		map-is
- cli-highlight 		does not match in the readme of 		highlight-cli
- vue-ref 		does not match in the readme of 		vue-refs
- component-clone 		does not match in the readme of 		clone-component
- gcloud 		does not match in the readme of 		cloud_g
+ markdown 		does not match in the readme of 		markdownx
  rss 		does not match in the readme of 		srs
  xrs 		does not match in the readme of 		srs
- js-levenshtein 		does not match in the readme of 		levenshtein-js
+ component-clone 		does not match in the readme of 		clone-component
  chunk-manifest-webpack-plugin 		does not match in the readme of 		chunk-manifest-webpack2-plugin
  inherit 		does not match in the readme of 		inheritz
- nodemon-webpack-plugin 		does not match in the readme of 		webpack-nodemon-plugin
- vue-cli 		does not match in the readme of 		zvue-cli
- npmi 		does not match in the readme of 		npm1
- npm 		does not match in the readme of 		npm1
- data-store 		does not match in the readme of 		datas-store
- yn 		does not match in the readme of 		ym
- react-collapse 		does not match in the readme of 		react-collapser
- domino 		does not match in the readme of 		domingo
- cors 		does not match in the readme of 		clrs
- dom-walk 		does not match in the readme of 		walk-dom
- vega 		does not match in the readme of 		vefa
- colornames 		does not match in the readme of 		color-names
- colornames 		does not match in the readme of 		color-names
- colornames 		does not match in the readme of 		color-names
- promise-polyfill 		does not match in the readme of 		promise-polyfills
- voc 		does not match in the readme of 		ovc
- dom-serialize 		does not match in the readme of 		vdom-serialize
- ellipsize 		does not match in the readme of 		ellipsizer
- fancy-log 		does not match in the readme of 		fancy-logs
- mustache 		does not match in the readme of 		mustacher
- vue-lazyload 		does not match in the readme of 		vue-lazy-load
- vue-lazyload 		does not match in the readme of 		vue-lazy-load
- metro 		does not match in the readme of 		metro4
- micromatch 		does not match in the readme of 		micro-match
- micromatch 		does not match in the readme of 		micro-match
- micromatch 		does not match in the readme of 		micro-match
- angular 		does not match in the readme of 		angularm
- global 		does not match in the readme of 		globalo
- cwebp-bin 		does not match in the readme of 		dwebp-bin
- mock-localstorage 		does not match in the readme of 		localstorage-mock
- stream-transform 		does not match in the readme of 		transform-stream
  react-toggle 		does not match in the readme of 		react-toggler
  react-toggled 		does not match in the readme of 		react-toggler
- ini 		does not match in the readme of 		inl
- vision 		does not match in the readme of 		visions
- markdown 		does not match in the readme of 		markdownx
+ js-levenshtein 		does not match in the readme of 		levenshtein-js
+ nodemon-webpack-plugin 		does not match in the readme of 		webpack-nodemon-plugin
+ dom-walk 		does not match in the readme of 		walk-dom
+ data-store 		does not match in the readme of 		datas-store
+ yn 		does not match in the readme of 		ym
+ cors 		does not match in the readme of 		clrs
+ react-collapse 		does not match in the readme of 		react-collapser
+ domino 		does not match in the readme of 		domingo
+ vega 		does not match in the readme of 		vefa
+ react-is 		does not match in the readme of 		react-ios
+ promise-polyfill 		does not match in the readme of 		promise-polyfills
+ voc 		does not match in the readme of 		ovc
+ casual 		does not match in the readme of 		causual
+ colornames 		does not match in the readme of 		color-names
+ colornames 		does not match in the readme of 		color-names
+ colornames 		does not match in the readme of 		color-names
+ metro 		does not match in the readme of 		metro4
+ dom-serialize 		does not match in the readme of 		vdom-serialize
+ ellipsize 		does not match in the readme of 		ellipsizer
+ angular 		does not match in the readme of 		angularm
+ vue-lazyload 		does not match in the readme of 		vue-lazy-load
+ vue-lazyload 		does not match in the readme of 		vue-lazy-load
+ mustache 		does not match in the readme of 		mustacher
+ micromatch 		does not match in the readme of 		micro-match
+ micromatch 		does not match in the readme of 		micro-match
+ micromatch 		does not match in the readme of 		micro-match
+ stream-transform 		does not match in the readme of 		transform-stream
+ excel-export 		does not match in the readme of 		export-excel
+ d3 		does not match in the readme of 		de
+ cwebp-bin 		does not match in the readme of 		dwebp-bin
+ global 		does not match in the readme of 		globalo
  console-clear 		does not match in the readme of 		clear-console
+ mock-localstorage 		does not match in the readme of 		localstorage-mock
+ ini 		does not match in the readme of 		inl
  async 		does not match in the readme of 		asynx
  rai 		does not match in the readme of 		ria
- react-is 		does not match in the readme of 		react-ios
- dateformat 		does not match in the readme of 		format-date
+ format 		does not match in the readme of 		dformat
+ koa-route 		does not match in the readme of 		koa-routed
+ koa-router 		does not match in the readme of 		koa-routed
+ vue-datetime 		does not match in the readme of 		vue2-datetime
+ vision 		does not match in the readme of 		visions
  is-array 		does not match in the readme of 		isi-array
  script-loader 		does not match in the readme of 		script_loader
  script-loader 		does not match in the readme of 		script_loader
- vue-datetime 		does not match in the readme of 		vue2-datetime
  is-class 		does not match in the readme of 		ys-class
- koa-route 		does not match in the readme of 		koa-routed
- koa-router 		does not match in the readme of 		koa-routed
- yaku 		does not match in the readme of 		yaki
- casual 		does not match in the readme of 		causual
+ dateformat 		does not match in the readme of 		format-date
  utf8 		does not match in the readme of 		utf-8
  utf8 		does not match in the readme of 		utf-8
- angular-tree-component 		does not match in the readme of 		angular2-tree-component
- d3 		does not match in the readme of 		de
- string-template 		does not match in the readme of 		string-templates
  dom-event 		does not match in the readme of 		vdom-event
- excel-export 		does not match in the readme of 		export-excel
+ wif 		does not match in the readme of 		wjf
+ angular-tree-component 		does not match in the readme of 		angular2-tree-component
+ grunt-sync 		does not match in the readme of 		grunt-rsync
+ yaku 		does not match in the readme of 		yaki
+ web3-providers 		does not match in the readme of 		pweb3-providers
+ react-motion 		does not match in the readme of 		react-motions
+ express-promise-router 		does not match in the readme of 		express-router-promise
+ bn.js 		does not match in the readme of 		nn.js
+ webpack 		does not match in the readme of 		webpack1
+ webpack 		does not match in the readme of 		webpack1
+ string-template 		does not match in the readme of 		string-templates
+ chalk 		does not match in the readme of 		chalk2
+ editor 		does not match in the readme of 		heditor
+ bluebird 		does not match in the readme of 		lbuebird
+ pmx 		does not match in the readme of 		pms
+ ul 		does not match in the readme of 		lu
+ li 		does not match in the readme of 		lu
+ underscore 		does not match in the readme of 		underscores
+ mgrs 		does not match in the readme of 		mfrs
+ emotion 		does not match in the readme of 		remotion
+ ora 		does not match in the readme of 		ors
+ spawn-rx 		does not match in the readme of 		rx-spawn
+ copy-webpack-plugin 		does not match in the readme of 		webpack-plugin-copy
+ dom-utils 		does not match in the readme of 		docm-utils
+ time 		does not match in the readme of 		timee
+ filed 		does not match in the readme of 		tiled
+ utila 		does not match in the readme of 		utilz
+ lie 		does not match in the readme of 		lir
+ deepcopy 		does not match in the readme of 		deepycopy

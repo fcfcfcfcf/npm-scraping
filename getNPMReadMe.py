@@ -17,7 +17,11 @@ no_match = open('doesntMatch.txt', 'w+')
 def get_readme_of_page(url):
     try:
         #getting html of page
-        text = requests.get(url, timeout=10).text
+        the_text = requests.get(url)
+        while the_text.status_code == 429:
+            time.sleep(20)
+            the_text = requests.get(url)
+        text = the_text.text
         soup = BeautifulSoup(text, 'html.parser')
         readme = soup.find('article')
         return(readme.text)
@@ -94,7 +98,7 @@ def getAllVersions(url):
         the_latest_version = ''
         the_text = requests.get(url)
         while the_text.status_code == 429:
-            time.sleep(5)
+            time.sleep(20)
             the_text = requests.get(url)
         text = the_text.text
         soup = BeautifulSoup(text, 'html.parser')
