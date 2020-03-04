@@ -66,29 +66,14 @@ def big_list_of_packages():
             perpetrators += [new_perpetrator]
     return(perpetrators)
 
-def main():
-    all_packages = big_list_of_packages()
-    print('got all the packages loaded')
-    for instance in all_packages:
-        drews_grepping(instance)
-    matches.close()
-    no_match.close()
-
-main()
-
-
-
-
-
-
-
-
 #returns a list of all versions from latest to oldest
 def getAllVersions(url):
     try:
         list_of_versions = []
         the_latest_version = ''
-        text = requests.get(url).text
+        the_text = requests.get(url)
+        while the_text.status_code == 429:
+            time.sleep(5)
         soup = BeautifulSoup(text, 'html.parser')
         try:
             #this is because we are not assured that there will be a latest version     
@@ -115,3 +100,15 @@ def getAllVersions(url):
         
     except Exception as e:
         print(e)
+
+def grepping_not_hashing():
+    all_packages = big_list_of_packages()
+    print('got all the packages loaded')
+    for instance in all_packages:
+        drews_grepping(instance)
+    matches.close()
+    no_match.close()
+
+def hashing_not_grepping():
+    all_packages = big_list_of_packages()
+    print('packages loaded')
