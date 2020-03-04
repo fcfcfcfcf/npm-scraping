@@ -75,8 +75,11 @@ def big_list_of_packages():
 def main():
     all_packages = big_list_of_packages()
     print('got all the packages loaded')
-    for instance in all_packages:
-        drews_grepping(instance)
+    
+    format = "%(asctime)s: %(message)s"
+    logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=13) as executor:
+        executor.map(drews_grepping, all_packages)
     matches.close()
     no_match.close()
 
