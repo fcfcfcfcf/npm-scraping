@@ -8,8 +8,6 @@ import threading
 import logging
 import concurrent.futures
 import csv
-import difflib
-
 
 matches = open('allTheMatches.txt', 'w+')
 no_match = open('doesntMatch.txt', 'w+')
@@ -28,9 +26,6 @@ def get_readme_of_page(url):
         print('was probably blocked')
         exit()
 
-
-
-                
 # format = "%(asctime)s: %(message)s"
 # logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
 # threads = list()
@@ -46,13 +41,12 @@ def get_name_ready_for_readme(package_name):
     return(versions_url)
 
 def drews_grepping(list_from_csv):
-    d = difflib.Differ()
     perp_url = get_name_ready_for_readme(list_from_csv[0])
     perp_readme = get_readme_of_page(perp_url)
     for i in range(1, len(list_from_csv)):
-        target = str(list_from_csv[i])
+        target = ' ' + str(list_from_csv[i]) + ' '
         #if(re.match(target, perp_readme)):
-        if(perp_readme.find(target)):
+        if(perp_readme.find(target) >= 0):
             print(target + '\t\thas a match in the readme of\t\t' + list_from_csv[0] + '\n')
             matches.write(target + '\t\thas a match in the readme of\t\t' + list_from_csv[0] + '\n')
         else:
