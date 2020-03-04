@@ -89,11 +89,13 @@ main()
 #returns a list of all versions from latest to oldest
 def getAllVersions(url):
     try:
+    
         list_of_versions = []
         the_latest_version = ''
         the_text = requests.get(url)
         while the_text.status_code == 429:
             time.sleep(5)
+            the_text = requests.get(url)
         text = the_text.text
         soup = BeautifulSoup(text, 'html.parser')
         try:
