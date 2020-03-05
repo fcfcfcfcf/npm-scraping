@@ -16,11 +16,9 @@ import json
 def get_readme_of_page(url):
     try:
       #getting html of page
-        print('getting a readme')
         proxies = randomProxy()
         userAgent = randomUserAgent()
         the_text = requests.get(url, headers={'user-agent' : userAgent})#, proxies=proxies)
-        time.sleep(10)
         while the_text.status_code == 429:
             print(the_text.status_code)
             time.sleep(60)
@@ -57,9 +55,10 @@ def comparing_readme(list_from_csv):
     perp_readme = get_readme_of_page(perp_url)
     for i in range(1, len(list_from_csv)):
         matches = open('allTheReadMeMatch.txt', 'a')
-        no_match = open('doesntMatchReadMe', 'a')
+        no_match = open('doesntMatchReadMe.txt', 'a')
         victim_url = get_name_ready_for_readme(list_from_csv[i])
         victim_readme = get_readme_of_page(victim_url)
+        target = list_from_csv[i]
         if(victim_readme == perp_readme):
             print(target + '\t\match in\t\t' + list_from_csv[0] + '\n')
             matches.write(target + '\t\match in\t\t' + list_from_csv[0] + '\n')
@@ -91,7 +90,7 @@ def main():
 
     format = "%(asctime)s: %(message)s"
     logging.basicConfig(format=format, level=logging.INFO, datefmt="%H:%M:%S")
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
         executor.map(comparing_readme, all_packages)
     matches.close()
     no_match.close()
