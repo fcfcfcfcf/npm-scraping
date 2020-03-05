@@ -1,0 +1,14 @@
+ bunyan 		has a match in the readme of		buynan
+ build 		has a match in the readme of		buidl
+ gulp 		has a match in the readme of		glup
+ request 		has a match in the readme of		reuqest
+ error 		has a match in the readme of		reror
+ bcrypt 		has a match in the readme of		brcypt
+ clone 		has a match in the readme of		cloen
+ editor 		has a match in the readme of		editro
+ is 		has a match in the readme of		si
+ lodash 		has a match in the readme of		loadsh
+ lru 		has a match in the readme of		lur
+ request 		has a match in the readme of		reqeust
+ nedb 		has a match in the readme of		endb
+ lazy 		has a match in the readme of		layz

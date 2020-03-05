@@ -1573,3 +1573,6 @@
  callbackify 		has a match in the readme of		callbackify5
  colors 		has a match in the readme of		ccolors
  colors 		has a match in the readme of		ccolors
+ buffer 		has a match in the readme of		abuffer
+ bencode 		has a match in the readme of		zbencode
+ scroll 		has a match in the readme of		lscroll

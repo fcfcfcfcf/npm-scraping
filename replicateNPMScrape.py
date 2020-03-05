@@ -54,8 +54,8 @@ def drews_grepping(list_from_csv):
     perp_url = get_name_ready_for_readme(list_from_csv[0])
     perp_readme = get_readme_of_page(perp_url)
     for i in range(1, len(list_from_csv)):
-        matches = open('allTheMatches.txt', 'a')
-        no_match = open('doesntMatch.txt', 'a')
+        matches = open('allTheCommonTyposMatches.txt', 'a')
+        no_match = open('doesntCommonTyposMatch.txt', 'a')
         target = ' ' + str(list_from_csv[i]) + ' '
     	#if(re.match(target, perp_readme)):
         if(perp_readme.find(target) >= 0):
@@ -80,8 +80,21 @@ def big_list_of_packages():
             perpetrators += [new_perpetrator]
     return(perpetrators)
 
+def big_list_of_swap_packages():
+    perpetrators = []
+    with open('npm_typosquatting_perpetrators.csv') as csvfile:
+      	pkg_reader = csv.reader(csvfile, delimiter=',')
+      	for row in pkg_reader:
+            new_perpetrator = []
+            for ind in range (len(row)):
+                if ind == 10:
+                    if row[ind] != '':
+                        new_perpetrator += [row[0], row[10]]
+            perpetrators += [new_perpetrator]
+    return(perpetrators)
+
 def main():
-    all_packages = big_list_of_packages()
+    all_packages = big_list_of_swap_packages()
     print('got all the packages loaded')
 
     format = "%(asctime)s: %(message)s"

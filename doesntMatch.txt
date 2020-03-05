@@ -11773,3 +11773,31 @@
  mri 		does not match in the readme of 		mei
  rc4 		does not match in the readme of 		rc5
  rc 		does not match in the readme of 		rc5
+ repeated_characters 		does not match in the readme of 		package_name
+ omitted_characters 		does not match in the readme of 		package_name
+ swapped_characters 		does not match in the readme of 		package_name
+ swapped_words 		does not match in the readme of 		package_name
+ common_typos 		does not match in the readme of 		package_name
+ version_numbers 		does not match in the readme of 		package_name
+ gry 		does not match in the readme of 		gyr
+ svg-injector 		does not match in the readme of 		svg-injector-2
+ lrucache 		does not match in the readme of 		cache-lru
+ redux-localstorage 		does not match in the readme of 		redux-local-storage
+ has-require 		does not match in the readme of 		hash-require
+ require 		does not match in the readme of 		brequire
+ spawnd 		does not match in the readme of 		spawnx
+ express-ws 		does not match in the readme of 		express-whs
+ redux-localstorage 		does not match in the readme of 		redux-local-storage
+ axe-cli 		does not match in the readme of 		ace-cli
+ ow 		does not match in the readme of 		o3
+ bolt 		does not match in the readme of 		volt
+ zlib 		does not match in the readme of 		zoib
+ async-lock 		does not match in the readme of 		lock-async
+ moment 		does not match in the readme of 		imoment
+ parent-module 		does not match in the readme of 		module-parent
+ idb 		does not match in the readme of 		dib
+ web3-eth-accounts 		does not match in the readme of 		sweb3-eth-accounts
+ bootstrap 		does not match in the readme of 		bbootstrap
+ http-proxy 		does not match in the readme of 		proxy-http
+ creditcards 		does not match in the readme of 		s-creditcard
+ iscroll 		does not match in the readme of 		lscroll
