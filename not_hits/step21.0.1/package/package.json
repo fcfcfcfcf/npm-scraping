@@ -1,0 +1,8 @@
+{ "name": "step2",
+  "version": "1.0.1",
+  "description": "A simple control-flow library for node.JS that makes parallel execution, serial execution, and error handling painless.",
+  "engine": [ "node >=6.0.0" ],
+  "author": "Sandon Joubert",
+  "license": "MIT",
+  "main": "lib/step"
+}

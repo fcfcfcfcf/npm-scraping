@@ -1,0 +1,38 @@
+{
+  "name": "grunt-google-cdn2",
+  "version": "0.6.0",
+  "description": "Grunt task for replacing refs to resources on the Google CDN",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btford/grunt-google-cdn"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.4.3"
+  },
+  "keywords": [
+    "grunt",
+    "google",
+    "cdn"
+  ],
+  "files": [
+    "tasks/cdnify.js"
+  ],
+  "author": "Brian Ford",
+  "license": "BSD",
+  "devDependencies": {
+    "each-async": "1.1.1",
+    "grunt": "1.0.3",
+    "grunt-contrib-jshint": "2.0.0",
+    "grunt-contrib-nodeunit": "2.0.0",
+    "proxyquire": "2.1.0"
+  },
+  "dependencies": {
+    "bower": "1.8.8",
+    "chalk": "2.4.2",
+    "google-cdn": "1.1.0"
+  }
+}
